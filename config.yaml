@@ -1,0 +1,5 @@
+fat: 'data\Fat_Supply_Quantity_Data.csv'
+protein: 'data\Protein_Supply_Quantity_Data.csv'
+cal: 'data\Food_Supply_kcal_Data.csv'
+food: 'data\Food_Supply_Quantity_kg_Data.csv'
+geo: 'data\country-capital-lat-long.csv'
