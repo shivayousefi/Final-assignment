@@ -52,7 +52,7 @@ As chart shows we find 2 food categories with more relation
 <img src ="https://user-images.githubusercontent.com/125770312/233967178-91d57c2d-022c-4f24-8691-af102c24e6c3.png"/>
 
 In animal products The ratio of consumption with protein and fat is positive while in vegetal products this ratio is opposite
-<img src =""/>
+<img src ="https://user-images.githubusercontent.com/125770312/233967736-ffe55c17-6644-417a-a6ca-528ca782f357.png"/>
 
 In order to find out which countries were infected with the corona disease and how much they used herbal products, I drew a thermal graph on the map.
-<img src =""/>
+<img src ="https://user-images.githubusercontent.com/125770312/233967781-4f4aa6c4-aaaf-4516-9dd1-1e7a5f46e6fb.png"/>
