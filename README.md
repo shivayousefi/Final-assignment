@@ -49,10 +49,17 @@ Now we find correlation between X and Y values to find which food category is mo
 As chart shows we find 2 food categories with more relation
 - Animal products (**possitive** correlation with **infection**) and (**negetive** correlation with **recovery**)
 - Vegetal products (**negetive** correlation with **infection**) and (**possitive** correlation with **recovery**)
-<img src ="https://user-images.githubusercontent.com/125770312/233975610-2f1a81de-04be-45ce-b713-46be871000b8.png"/>
 
-In animal products The ratio of consumption with protein and fat is positive while in vegetal products this ratio is opposite
 <img src ="https://user-images.githubusercontent.com/125770312/233975627-cc0acd97-d656-411e-abff-339e3df5cf6d.png"/>
 
+
+
+In animal products The ratio of consumption with protein and fat is positive while in vegetal products this ratio is opposite
+
+<img src ="https://user-images.githubusercontent.com/125770312/233975610-2f1a81de-04be-45ce-b713-46be871000b8.png"/>
+
+
+
 In order to find out which countries were infected with the corona disease and how much they used herbal products, I drew a thermal graph on the map.
+
 <img src ="https://user-images.githubusercontent.com/125770312/233967781-4f4aa6c4-aaaf-4516-9dd1-1e7a5f46e6fb.png"/>
