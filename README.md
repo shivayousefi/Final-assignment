@@ -49,7 +49,7 @@ Now we find correlation between X and Y values to find which food category is mo
 As chart shows we find 2 food categories with more relation
 - Animal products (**possitive** correlation with **infection**) and (**negetive** correlation with **recovery**)
 - Vegetal products (**negetive** correlation with **infection**) and (**possitive** correlation with **recovery**)
-<img src =""/>
+<img src ="https://user-images.githubusercontent.com/125770312/233967178-91d57c2d-022c-4f24-8691-af102c24e6c3.png"/>
 
 In animal products The ratio of consumption with protein and fat is positive while in vegetal products this ratio is opposite
 <img src =""/>
